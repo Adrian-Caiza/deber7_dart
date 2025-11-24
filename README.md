@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23700608/README.md)
 # 📘 **Deber 7 -- Ejercicios de Sintaxis en Dart**
 
 ¡Bienvenido a este repositorio!\
